@@ -1,0 +1,1 @@
+[31m2021-01-19 19:44:41.455 IST [main] InitCmd -> ERRO 001[0m Fatal error when initializing core config : error when reading core config file: Config File "core" Not Found in "[/home/zero/hyperledger/fabric-samples/test-network/scripts]"
